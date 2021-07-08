@@ -64,3 +64,15 @@ footer{
 	padding-top:20vw;
 }
 
+imgfamily {
+  position: absolute;
+}
+
+.fondof{
+  z-index: 1;
+}
+
+.pngf{
+  z-index: 2;
+}
+
