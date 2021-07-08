@@ -64,16 +64,3 @@ footer{
 	padding-top:20vw;
 }
 
-.familiaTG{
-  position:absolute;
-  height:800px;
-  width:400px;
-  z-index: 1;
-}
-
-.FamiliaGFONDO{
-  position:absolute;
-  height:800px;
-  width:400px;
-  z-index: -1;
-}
