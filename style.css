@@ -64,15 +64,12 @@ footer{
 	padding-top:20vw;
 }
 
-imgfamily {
-  position: absolute;
-}
 
-.pngf{
-  z-index: 1;
-}
+
+
 
 .supf{
+  position: absolute;
   z-index: 2;
 }
 
