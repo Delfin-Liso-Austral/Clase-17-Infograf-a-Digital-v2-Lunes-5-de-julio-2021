@@ -68,11 +68,13 @@ imgfamily {
   position: absolute;
 }
 
-.fondof{
+.pngf{
   z-index: 1;
 }
 
-.pngf{
+.supf{
   z-index: 2;
 }
+
+
 
