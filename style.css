@@ -67,14 +67,15 @@ footer{
 
 .arriba{
   position:absolute;
-  top: 284px;
+  top: 240px;
   left : 0px;
   z-index: 1;
 }
 
-.fondo
-{
+.fondo{
   position:relative;
+  top: 0px;
+  left : 0px;
   z-index: -1;
 }
 
