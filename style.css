@@ -67,18 +67,17 @@ footer{
 
 .arriba{
   position:absolute;
-  height:200px;
-  width:200px;
-  top: 40px;
-  left : 40px;
+  height:800px;
+  width:800px;
+  top: 800px;
   z-index: 1;
 }
 
 .fondo
 {
   position:absolute;
-  height:300px;
-  width:300px;
+  height:800px;
+  width:800px;
   z-index: -1;
 }
 
