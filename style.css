@@ -71,6 +71,13 @@ footer{
   z-index: 1;
 }
 
+.arriba1{
+  position:absolute;
+  top: 400px;
+  left : 0px;
+  z-index: 1;
+}
+
 .fondo{
   top: 0px;
   left : 0px;
