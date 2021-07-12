@@ -73,7 +73,7 @@ footer{
 
 .arriba1{
   position:absolute;
-  top: -235px;
+  top: 0px;
   left : 0px;
   z-index: 1;
 }
