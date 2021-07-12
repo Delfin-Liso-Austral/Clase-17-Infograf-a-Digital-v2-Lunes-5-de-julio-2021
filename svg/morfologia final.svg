@@ -25,6 +25,7 @@
             }
             .cls-6 {
                 fill: #fff;
+               transform:rotate(180deg);
             }
         </style>
     </defs>
